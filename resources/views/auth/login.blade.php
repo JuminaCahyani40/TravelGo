@@ -1,7 +1,10 @@
 <x-guest-layout>
     <x-jet-authentication-card>
         <x-slot name="logo">
-            <x-jet-authentication-card-logo />
+            <a class="navbar-brand" href="#">
+                <img src="/img/logo_tg.png" alt="logo" style="width: 300px;" >
+            </a>
+            <!--<x-jet-authentication-card-logo />-->
         </x-slot>
 
         <x-jet-validation-errors class="mb-4" />
