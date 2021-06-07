@@ -2,7 +2,7 @@
     <x-jet-authentication-card>
         <x-slot name="logo">
             <a class="navbar-brand" href="#">
-                <img src="/img/logo_tg.png" alt="logo" style="width: 300px;" >
+                <img src="/img/logo.png" alt="logo" style="width: 300px;" >
             </a>
             <!--<x-jet-authentication-card-logo />-->
         </x-slot>
