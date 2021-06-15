@@ -22,7 +22,7 @@
 			  <a class="nav-link" href="#">Daftar Pariwisata</a>
 			</li>
 			<li class="nav-item">
-			  <a class="nav-link" href="#">ndajsfjf</a>
+			  <a class="nav-link" href="#">Akomodasi</a>
 			</li>
 		
 		  <form class="form-inline" action="">
@@ -46,33 +46,33 @@
 	  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 		  <div class="carousel-item active">
-			<img class="d-block w-100 h-50" src="/img/benua patra.jpg" alt="danau cermin">
+			<img class="d-block w-100 h-50" src="/img/kemala2.jpg" alt="danau cermin">
 		  </div>
 		  <div class="carousel-item">
-			<img class="d-block w-100 h-50" src="/img/Banua-Patra.jpg" alt="Second slide">
+			<img class="d-block w-100 h-50" src="/img/kemala.jpg" alt="Second slide">
 		  </div>
 		</div>
 	  </div>
 	  <br>
 	  <br>
-	  <h1 style="text-align: center">Banua Patra </h1>
+	  <h1 style="text-align: center">Pantai Kemala</h1>
 	  <br>
 	  <br>
 
 	  <div class="row justify-content-md-center">
 		  <div class="col-md-6">
 			  <p class="text-justify">
-				Pantai ini menyuguhkan keindahan kontras dari warna pasir dan lautannya. Tentunya hal ini membuat para wisatawan yang mengunjunginya sangat terkagum. Tampilan pasir yang putih cemerlang dan halus, membuat destinasi wisata ini sangat populer untuk semua kalangan pengunjung baik lokal maupun luar daerah. Tidak hanya itu saja, masih banyak lagi pesona yang ditawarkan dari pantai ini. Pantai Banua Patra dulunya sering disebut dengan istilah Batu – Batu. Pasalnya, wilayahnya memang dipenuhi dengan bebatuan alam yang tersusun sampai membentuk pulau dipinggir pantai. Kontras yang terlihat dari pasir dan bebatuan inilah yang membuat Banua Patra berbeda dengan pantai lainnya. Bahkan batu yang terbentuk secara alami ini bisa dijadikan spot menarik untuk diabadikan		
+				Pantai Kemala adalah salah satu tempat wisata di Balikpapan yang paling ramai dikunjungi oleh para penikmat perjalanan, terlebih di saat akhir pekan dan hari libur. Pantai Kemala ini terkenal dengan sebutan Pantai Polda. Di kawasan pantai ini, terdapat berbagai restoran bagi Anda yang ingin bersantap sembari menikmati keindahan panorama laut. Sajian menu makanan disini cukup variatif, mulai dari masakan berbagai daerah di Indonesia hingga masakan Eropa juga tersedia untuk Anda. Selain berenang di pantai, kegiatan menarik yang dapat dilakukan di antaranya duduk bersantai dan bercengkerama di pinggir pantai serta menikmati hamparan pasir pantai yang putih dan bersih. Jika Anda ingin bermain banana boats, Anda harus mengeluarkan biaya sebesar Rp 25.000 per orang. Bahkan bermain jet ski dapat dilakukan di tempat wisata Balikpapan yang satu ini, Anda dapat menyewa jet ski sebesar Rp 800.000per orang selama 1 jam. Untuk dapat masuk, Anda harus membayar tiket masuk Pantai Kemala ini sebesar Rp 500 per orang. Jika Anda membawa kendaraan, maka Anda akan dikenakan tarif sebesar Rp 1000 untuk kendaraan roda dua dan Rp 2.000 untuk kendaraan roda empat.
 			  </p>
-			  <img src="/img/Banua-Patra.jpg">
-			  <p class="text-justify">Lokasi: Perapatan, Kec. Balikpapan Kota, Kota Balikpapan.</p><br>
+			  <img src="/img/kemala.jpg">
+			  <p class="text-justify">Lokasi : Jl. Jend. Sudirman, Prapatan, Kec. Balikpapan Kota, Kota Balikpapan.</p><br>
 			  <h2>Akomodasi</h2><br>
-			  <p class="text-justify">untuk pengunjung dari luar daerah tak perlu bingung akan menginap dimana karena di pantai ini terdapat Patra Melawai Beach yang dibanderol Rp. 220.000 permalamnya.</p><br>
+			  <p class="text-justify">Apabila anda berasal dari luar Balikpapan, atau berasal bukan dari Pulau Kalimantan Timur anda bisa menyewa penginapan di sekiar Pantai Kemala. Banyak sekali penginapan yang tersedia di area tersbut mulai dari hotel, cottage, villa maupun wisma yang bisa disewa dengan berbagai rentangan harga serta fasilitas yang disediakan.</p><br>
 			  <h2>Transportasi</h2><br>
-			  <p class="text-justify">Pantai yang satu ini berlokasi sangat strategis, yaitu di area jantung Kota Balikpapan, tepatnya di Jalan Jenderal Sudirman. Untuk menuju ke lokasi wisata Pantai Banua Patra cukup mudah. Lokasinya yang berdekatan dengan lapangan Merdeka dan pelabuhan Semayang pastinya mudah dilihat. Tidak hanya itu saja, akses menuju lokasi juga mudah untuk dijangkau bagi wisatawan baik dengan kendaraan umum maupun transportasi umum.</p><br>
-			  <h2>Yuk, Ke Pantai Benua Patra!</h2><br>
+			  <p class="text-justify">Karena letaknya yang masih berada di jantung kota dan di pinggir jalan raya, maka akses menuju Pantai Kemala pun sangat mudah dijangkau. Anda bisa menggunakan kendaraan umum ataupun kendaraan pribadi menuju Pantai Kemala dari pusat Kota Balikpapan dengan hanya memakan waktu sekitar 5 menit saja.</p><br>
+			  <h2>Yuk, Ke Pantai Kemala!</h2><br>
 			  <h4>Jalur Udara</h4><br>
-			  <p class="text-justify">Bagi  pengujung yang memilih transportasi udara untuk menuju ke Balikpapan, pilihlah tujuan Bandara Internasional Sultan Aji Muhammad Sulaiman Sepinggan. Penerbangan internasional dan nasional tersedia sepanjang waktu. Kemudian anda bisa menggunakan taksi yang tersedia dibandara menuju lokasi.</p><br>
+			  <p class="text-justify">Balikpapan melalui jalan udara di layani oleh Sultan Aji Muhammad Sulaiman Airport. BalikpapanSultan Aji Muhammad Sulaiman Airport terletak sekitar 5 km timur dari Balikpapan. Taksi ke kota dari Sultan Aji Muhammad Sulaiman Airport akan dikenakan IDR 70.000.</p><br>
 			  <h4>Jalur Darat</h4><br>
 			  <p class="text-justify">pengunjung dapat melewati tol Balsam yang merupakan sebuah jalan tol di Indonesia sepanjang 99,02 kilometer yang menghubungkan Kota Balikpapan dengan Kota Samarinda, Kalimantan Timur.</p><br>
 			  <h4>Jalur Laut</h4><br>
@@ -80,7 +80,7 @@
 		  </div>
 	  </div><hr>
 	  <div class="container contact-form">
-		<form action="/daftar_wisata/store" method="post">
+		<form action="simpan" method="post">
 			{{ csrf_field() }}
 			<h3 style="text-align: center">Berikan saran dan kritik Anda!</h3><br>
 			<div class="row justify-content-md-center">

@@ -46,16 +46,16 @@
 	  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 		  <div class="carousel-item active">
-			<img class="d-block w-100 h-50" src="/img/danau cermin.jpeg" alt="danau cermin">
+			<img class="d-block w-100 h-50" src="/img/manggar-segarasari.jpg" alt="danau cermin">
 		  </div>
 		  <div class="carousel-item">
-			<img class="d-block w-100 h-50" src="/img/cermin.jpg" alt="Second slide">
+			<img class="d-block w-100 h-50" src="/img/manggar-2.jpg" alt="Second slide">
 		  </div>
 		</div>
 	  </div>
 	  <br>
 	  <br>
-	  <h1 style="text-align: center"> Danau Cermin Lamaru </h1>
+	  <h1 style="text-align: center">Pantai Manggar Segarasari</h1>
 	  <br>
 	  <br>
 
@@ -69,13 +69,13 @@
 				Danau ini juga sebenarnya tak sengaja terbentuk. Awalnya adalah bekas urukan tanah proyek yang membentuk cekungan  untuk proyek lapangan tembak.Sedikit demi sedikit danau ini terisi air hingga seperti sekarang ini. 
 			
 			  </p>
-			  <img src="/img/danau cermin.jpeg">
-			  <p class="text-justify">Lokasi: Jalan Rawamangun RT 20, Kelurahan lamaru, Balikpapan Timur</p><br>
+			  <img src="/img/manggar-segarasari.jpg">
+			  <p class="text-justify">Lokasi: Perapatan, Kec. Balikpapan Kota, Kota Balikpapan.</p><br>
 			  <h2>Akomodasi</h2><br>
 			  <p class="text-justify">Sebagian besar hotel berbintang di Bali terletak di dekat pantai. Bahkan beberapa hotel eksklusif menawarkan pantai pribadi, lho! Hotel-hotel internasional berbintang lima, akomodasi mewah, serta restoran mewah dapat Sobat Pesona temukan di kawasan Seminyak. Sedangkan, hotel-hotel yang tersedia di kawasan Pantai Sanur lebih beragam jangkauan harganya. Untuk Sobat Pesona yang lebih suka pemandangan sawah, bisa memilih untuk menginap di Ubud, ya. </p><br>
 			  <h2>Transportasi</h2><br>
 			  <p class="text-justify">Ada banyak moda transportasi yang dapat membantu Sobat Pesona berkeliling selama di Bali. Bagi Sobat Pesona yang tidak membawa kendaraan pribadi, sudah ada banyak transportasi online yang beroperasi di Bali. Selain itu, banyak juga tempat penyewaan motor dengan melengkapi persyaratan berupa KTP dan SIM C lalu membayar biaya sewa per harinya. Saat ini, Bali juga sudah punya moda transportasi umum bernama Bus Trans Sarbagita, lho!</p><br>
-			  <h2>Yuk, Ke Danau Cermin!</h2><br>
+			  <h2>Yuk, Ke Pantai Manggar Segarasari!</h2><br>
 			  <h4>Jalur Udara</h4><br>
 			  <p class="text-justify">Bagi Sobat Pesona yang memilih transportasi udara untuk menuju ke Bali, pilihlah tujuan Bandara Internasional Ngurah Rai. Penerbangan internasional dan nasional tersedia sepanjang waktu dan siap membawa pengunjung menuju Pulau Dewata. Bandara Ngurah Rai dijadwalkan tutup selama 24 jam pada Hari Raya Nyepi yang biasanya jatuh pada bulan Maret setiap tahunnya.</p><br>
 			  <h4>Jalur Darat</h4><br>
@@ -89,23 +89,23 @@
 		  </div>
 	  </div><hr>
 	  <div class="container contact-form">
-		<form action="/daftar_wisata/wisatasatu" method="POST">
-			@csrf
+		<form action="/daftar_wisata/store" method="post">
+			{{ csrf_field() }}
 			<h3 style="text-align: center">Berikan saran dan kritik Anda!</h3><br>
 			<div class="row justify-content-md-center">
 				
 				<div class="col-md-6">
 					<div class="form-group">
-						<input type="text" name="nama" class="form-control" placeholder="Masukkan Nama" value="">
+						<input type="text" name="txtName" class="form-control" placeholder="Masukkan Nama" value="">
 					</div>
 					<div class="form-group">
-						<input type="text" name="email" class="form-control" placeholder="Masukkan Email" value="">
+						<input type="text" name="txtEmail" class="form-control" placeholder="Masukkan Email" value="">
 					</div>
 					<div class="form-group">
-						<input type="text" name="telepon" class="form-control" placeholder="Masukkan Nomor Telepon" value="">
+						<input type="text" name="txtPhone" class="form-control" placeholder="Masukkan Nomor Telepon" value="">
 					</div>
 					<div class="form-group">
-						<textarea name="saran" class="form-control" id="" placeholder="Masukkan kritik dan saran" style="width: 100%; height: 150px"></textarea>
+						<textarea name="txtMsg" class="form-control" id="" placeholder="Masukkan kritik dan saran" style="width: 100%; height: 150px"></textarea>
 					</div>
 					<div class="form-group">
 						<input type="submit" name="btnSubmit" class="btnContact" value="Kirim Pesan">

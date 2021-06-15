@@ -22,7 +22,7 @@
 			  <a class="nav-link" href="#">Daftar Pariwisata</a>
 			</li>
 			<li class="nav-item">
-			  <a class="nav-link" href="#">ndajsfjf</a>
+			  <a class="nav-link" href="#">Akomodasi</a>
 			</li>
 		
 		  <form class="form-inline" action="">
@@ -46,31 +46,31 @@
 	  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 		  <div class="carousel-item active">
-			<img class="d-block w-100 h-50" src="/img/benua patra.jpg" alt="danau cermin">
+			<img class="d-block w-100 h-50" src="/img/margomulyo.jpg" alt="danau cermin">
 		  </div>
 		  <div class="carousel-item">
-			<img class="d-block w-100 h-50" src="/img/Banua-Patra.jpg" alt="Second slide">
+			<img class="d-block w-100 h-50" src="/img/margo.jPg" alt="Second slide">
 		  </div>
 		</div>
 	  </div>
 	  <br>
 	  <br>
-	  <h1 style="text-align: center">Banua Patra </h1>
+	  <h1 style="text-align: center">Hutan Bakau Margomulyo</h1>
 	  <br>
 	  <br>
 
 	  <div class="row justify-content-md-center">
 		  <div class="col-md-6">
 			  <p class="text-justify">
-				Pantai ini menyuguhkan keindahan kontras dari warna pasir dan lautannya. Tentunya hal ini membuat para wisatawan yang mengunjunginya sangat terkagum. Tampilan pasir yang putih cemerlang dan halus, membuat destinasi wisata ini sangat populer untuk semua kalangan pengunjung baik lokal maupun luar daerah. Tidak hanya itu saja, masih banyak lagi pesona yang ditawarkan dari pantai ini. Pantai Banua Patra dulunya sering disebut dengan istilah Batu – Batu. Pasalnya, wilayahnya memang dipenuhi dengan bebatuan alam yang tersusun sampai membentuk pulau dipinggir pantai. Kontras yang terlihat dari pasir dan bebatuan inilah yang membuat Banua Patra berbeda dengan pantai lainnya. Bahkan batu yang terbentuk secara alami ini bisa dijadikan spot menarik untuk diabadikan		
+				Hutan Bakau Margomulyo ini adalah hutan kota di Balikpapan. Di dalam kawasan hutan, terdapat jembatan kayu sepanjang 800 meter yang berfungsi sebagai sarana penunjang bagi Anda yang ingin menikmati pengalaman wisata di hutan tersebut.Tempat wisata di Balikpapan yang satu ini memiliki menara intai, yang berguna untuk menyaksikan aneka burung yang tinggal dan hidup di hutan bakau tersebut. Jika Anda ingin menyaksikan hewan bekantan, maka datanglah di saat pagi hari tiba atau saat matahari kembali ke peraduannya. Jangan khawatir, Anda tidak akan dikenakan biaya untuk dapat masuk ke tempat wisata Balikpapan ini. Hanya saja, Anda wajib menjaga kebersihan lingkungan dengan tidak membuang sampah sembarangan serta tidak mengambil properti atau aset wisata apapun yang ada di lokasi ini.
 			  </p>
-			  <img src="/img/Banua-Patra.jpg">
-			  <p class="text-justify">Lokasi: Perapatan, Kec. Balikpapan Kota, Kota Balikpapan.</p><br>
+			  <img src="/img/margo.jpg">
+			  <p class="text-justify">Lokasi:  Marga Sari, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76123</p><br>
 			  <h2>Akomodasi</h2><br>
-			  <p class="text-justify">untuk pengunjung dari luar daerah tak perlu bingung akan menginap dimana karena di pantai ini terdapat Patra Melawai Beach yang dibanderol Rp. 220.000 permalamnya.</p><br>
+			  <p class="text-justify">Pengunjung bisa menyewa penginapan yang nyaman dan dengan harga yang terjangkau di sekitar Margomulyo untuk memudahkan perjalanan menuju hutan mangrove yang tersedia seperti mahkota intan hotel, hotel pavilliun dan sebagainya</p><br>
 			  <h2>Transportasi</h2><br>
-			  <p class="text-justify">Pantai yang satu ini berlokasi sangat strategis, yaitu di area jantung Kota Balikpapan, tepatnya di Jalan Jenderal Sudirman. Untuk menuju ke lokasi wisata Pantai Banua Patra cukup mudah. Lokasinya yang berdekatan dengan lapangan Merdeka dan pelabuhan Semayang pastinya mudah dilihat. Tidak hanya itu saja, akses menuju lokasi juga mudah untuk dijangkau bagi wisatawan baik dengan kendaraan umum maupun transportasi umum.</p><br>
-			  <h2>Yuk, Ke Pantai Benua Patra!</h2><br>
+			  <p class="text-justify">Untuk menuju kawasan ini memang tidak mudah karena lokasinya yang tersembunyi. Anda perlu masuk ke dalam gang karena Hutan Mangrove Margomulyo berada di belakang SMAN 8 Balikpapan. Alamat lengkapnya ada di Jalan AMD Gunung Empat kelurahan Margomulyo. Angkutan yang bisa membawa Anda ke tempat ini cukup sulit, sehingga disarankan untuk membawa kendaraan pribadi, naik taksi, atau ojek yang saat ini bisa Anda peroleh secara online.</p><br>
+			  <h2>Yuk, Ke Hutan Bakau Margomulyo!</h2><br>
 			  <h4>Jalur Udara</h4><br>
 			  <p class="text-justify">Bagi  pengujung yang memilih transportasi udara untuk menuju ke Balikpapan, pilihlah tujuan Bandara Internasional Sultan Aji Muhammad Sulaiman Sepinggan. Penerbangan internasional dan nasional tersedia sepanjang waktu. Kemudian anda bisa menggunakan taksi yang tersedia dibandara menuju lokasi.</p><br>
 			  <h4>Jalur Darat</h4><br>

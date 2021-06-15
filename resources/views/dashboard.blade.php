@@ -25,7 +25,7 @@
                   <a class="nav-link" href="#">Daftar Pariwisata</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">ndajsfjf</a>
+                  <a class="nav-link" href="#">Akomodasi</a>
                 </li>
             
               <form class="form-inline" action="">
@@ -55,13 +55,13 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100 h-50" src="/img/batu dinding.jpg" alt="First slide">
+            <img class="d-block w-100 h-50" src="/img/BATUD.jpeg" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100 h-50" src="/img/benua patra.jpg" alt="Second slide">
+            <img class="d-block w-100 h-50" src="/img/BPATRA.jpeg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100 h-50" src="/img/mangrove center.jpg" alt="Third slide">
+            <img class="d-block w-100 h-50" src="/img/MANGROVE6.jpeg" alt="Third slide">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -82,22 +82,22 @@
       <div class="containerm">
         <div class="row">
           <div class="col-md-4">
-            <div class="image"><a href="{{ '/daftar_wisata/wisatasatu' }}"><img src="/img/benua patra.jpg" alt="">
+            <div class="image"><a href="{{ '/daftar_wisata/wisatasatu' }}"><img src="/img/danau cermin.jpeg" alt="">
               <i class="fa fa-3x">
-                <p id="image_label"><span>Benua Patra</span></p>
+                <p id="image_label"><span>Danau Cermin</span></p>
               </a>
               </i>
             </div>
           </div>
           <div class="col-md-4">
-            <div class="image"><a href="{{ '/daftar_wisata/wisatasatu' }}"><img src="/img/manggar.jpg" alt="">
+            <div class="image"><a href="{{ '/daftar_wisata/wisatadua' }}"><img src="/img/Banua-Patra.jpg" alt="">
               <i class="fa fa-3x">
                 <p id="image_label"><span>Benua Patra</span></p>
               </a></i></div>
           </div>
           <div class="col-md-4">
-            <div class="image"><a href="{{ '/daftar_wisata/wisatasatu' }}"><img src="/img/kemala.jpg" alt=""><i class="fa fa-3x">
-              <p id="image_label"><span>Benua Patra</span></p>  
+            <div class="image"><a href="{{ '/daftar_wisata/wisatatiga' }}"><img src="/img/kemala.jpg" alt=""><i class="fa fa-3x">
+              <p id="image_label"><span>Pantai Kemala</span></p>  
             </a></i>
             </div>
           </div>
@@ -106,20 +106,20 @@
       <div class="containerm">
         <div class="row">
           <div class="col-md-4">
-            <div class="image"><a href="{{ '/daftar_wisata/wisatasatu' }}"><img src="/img/benua patra.jpg" alt="">
+            <div class="image"><a href="{{ '/daftar_wisata/wisataempat' }}"><img src="/img/margo.jpg" alt="">
             <i class="fa fa-3x">
-              <p id="image_label"><span>Benua Patra</span></p>  
+              <p id="image_label"><span>Hutan Bakau Margomulyo</span></p>  
               </a></i></div>
           </div>
           <div class="col-md-4">
-            <div class="image"><a href="{{ '/daftar_wisata/wisatasatu' }}"><img src="/img/manggar.jpg" alt=""><i class="fa fa-3x">
-              <p id="image_label"><span>Benua Patra</span></p>  
+            <div class="image"><a href="{{ '/daftar_wisata/wisatalima' }}"><img src="/img/pantai-lamaru.jpg" alt=""><i class="fa fa-3x">
+              <p id="image_label"><span>Pantai Lamaru</span></p>  
             </a>  
             </i></div>
           </div>
           <div class="col-md-4">
-            <div class="image"><a href="{{ '/daftar_wisata/wisatasatu' }}"><img src="/img/kemala.jpg" alt=""><i class="fa fa-3x">
-              <p id="image_label"><span>Benua Patra</span></p>   
+            <div class="image"><a href="{{ '/daftar_wisata/wisataenam' }}"><img src="/img/sungai-wain.jpeg" alt=""><i class="fa fa-3x">
+              <p id="image_label"><span>Hutan Lindung Sungai Wain</span></p>   
             </a> 
             </i></div>
           </div>
@@ -128,20 +128,20 @@
       <div class="containerm">
         <div class="row">
           <div class="col-md-4">
-            <div class="image"><a href="{{ '/daftar_wisata/wisatasatu' }}"><img src="/img/benua patra.jpg" alt=""><i class="fa fa-3x">
-              <p id="image_label"><span>Benua Patra</span></p>   
+            <div class="image"><a href="{{ '/daftar_wisata/wisatatujuh' }}"><img src="/img/manggar-2.jpg" alt=""><i class="fa fa-3x">
+              <p id="image_label"><span>Pantai Manggar Segarasari</span></p>   
             </a> 
             </i></div>
           </div>
           <div class="col-md-4">
-            <div class="image"><a href="{{ '/daftar_wisata/wisatasatu' }}"><img src="/img/manggar.jpg" alt=""><i class="fa fa-3x">
-              <p id="image_label"><span>Benua Patra</span></p>  
+            <div class="image"><a href="{{ '/daftar_wisata/wisatadelapan' }}"><img src="/img/beruang-madu.jpg" alt=""><i class="fa fa-3x">
+              <p id="image_label"><span>Agrowisata Beruang Madu</span></p>  
             </a>  
             </i></div>
           </div>
           <div class="col-md-4">
-            <div class="image"><a href="{{ '/daftar_wisata/wisatasatu' }}"><img src="/img/kemala.jpg" alt=""><i class="fa fa-3x">
-              <p id="image_label"><span>Benua Patra</span></p>    
+            <div class="image"><a href="{{ '/daftar_wisata/wisatasembilan' }}"><img src="/img/penangkaran-buaya.jpg" alt=""><i class="fa fa-3x">
+              <p id="image_label"><span>Penangkaran Buaya</span></p>    
             </a>
             </i></div>
           </div>

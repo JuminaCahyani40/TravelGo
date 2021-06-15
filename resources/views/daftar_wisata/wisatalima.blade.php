@@ -46,33 +46,33 @@
 	  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 		  <div class="carousel-item active">
-			<img class="d-block w-100 h-50" src="/img/benua patra.jpg" alt="danau cermin">
+			<img class="d-block w-100 h-50" src="/img/lamaru-pantai.jpg" alt="danau cermin">
 		  </div>
 		  <div class="carousel-item">
-			<img class="d-block w-100 h-50" src="/img/Banua-Patra.jpg" alt="Second slide">
+			<img class="d-block w-100 h-50" src="/img/lamaru.png" alt="Second slide">
 		  </div>
 		</div>
 	  </div>
 	  <br>
 	  <br>
-	  <h1 style="text-align: center">Banua Patra </h1>
+	  <h1 style="text-align: center">Pantai Lamaru</h1>
 	  <br>
 	  <br>
 
 	  <div class="row justify-content-md-center">
 		  <div class="col-md-6">
 			  <p class="text-justify">
-				Pantai ini menyuguhkan keindahan kontras dari warna pasir dan lautannya. Tentunya hal ini membuat para wisatawan yang mengunjunginya sangat terkagum. Tampilan pasir yang putih cemerlang dan halus, membuat destinasi wisata ini sangat populer untuk semua kalangan pengunjung baik lokal maupun luar daerah. Tidak hanya itu saja, masih banyak lagi pesona yang ditawarkan dari pantai ini. Pantai Banua Patra dulunya sering disebut dengan istilah Batu – Batu. Pasalnya, wilayahnya memang dipenuhi dengan bebatuan alam yang tersusun sampai membentuk pulau dipinggir pantai. Kontras yang terlihat dari pasir dan bebatuan inilah yang membuat Banua Patra berbeda dengan pantai lainnya. Bahkan batu yang terbentuk secara alami ini bisa dijadikan spot menarik untuk diabadikan		
+				Pantai Lamaru merupakan salah satu alternatif wisata di Balikpapan. Menyuguhkan pemandangan indah dari Selat Makassar. Pantai ini menjadi destinasi favorit bagi masyarakat Balikpapan dan sekitarnya yang ingin bersantai di alam bebas. Objek wisata ini sangat terkenal dengan deretan pohon cemara di sepanjang pantai. Wisatawan juga akan dimanjakan dengan berbagai fasilitas yang lebih lengkap dari objek wisata pantai pada umumnya. Pantai yang menyediakan beragam fasilitas wisata ini banyak dikunjungi karena lokasinya juga mudah diakses. Daya tarik dan fasilitas pantai yang lengkap membuat kawasan wisata ini banyak direkomendasikan untuk liburan.
 			  </p>
-			  <img src="/img/Banua-Patra.jpg">
-			  <p class="text-justify">Lokasi: Perapatan, Kec. Balikpapan Kota, Kota Balikpapan.</p><br>
+			  <img src="/img/pantai-lamaru.jpg">
+			  <p class="text-justify">Lokasi: Jl. Mulawarman, Kec. Balikpapan Timur, Kota Balikpapan.</p><br>
 			  <h2>Akomodasi</h2><br>
-			  <p class="text-justify">untuk pengunjung dari luar daerah tak perlu bingung akan menginap dimana karena di pantai ini terdapat Patra Melawai Beach yang dibanderol Rp. 220.000 permalamnya.</p><br>
+			  <p class="text-justify">Akomodasi bagi wisatawan yang ingin menginap di sekitar pantai ini bisa dicari di Kota Balikpapan. Hal tersebut karena hotel atau penginapan di kawasan pantai ini belum tersedia. Penginapan yang ada di pusat kota adalah yang terdekat dengan jarak sekitar 30 menit perjalanan. Hotel di Balikpapan yang dekat dengan Pantai Lamaru antara lain Grand TJokro Hotel, Hotel Santika, Sepinggan Hotel, Fave Hotel, dan masih banyak lagi. Tarif menginap per malamnya bervariasi. Namun kebanyakan hotel di kota tersebut cukup terjangkau dan banyak yang di bawah 1 juta per malamnya.</p><br>
 			  <h2>Transportasi</h2><br>
-			  <p class="text-justify">Pantai yang satu ini berlokasi sangat strategis, yaitu di area jantung Kota Balikpapan, tepatnya di Jalan Jenderal Sudirman. Untuk menuju ke lokasi wisata Pantai Banua Patra cukup mudah. Lokasinya yang berdekatan dengan lapangan Merdeka dan pelabuhan Semayang pastinya mudah dilihat. Tidak hanya itu saja, akses menuju lokasi juga mudah untuk dijangkau bagi wisatawan baik dengan kendaraan umum maupun transportasi umum.</p><br>
-			  <h2>Yuk, Ke Pantai Benua Patra!</h2><br>
+			  <p class="text-justify">Untuk menuju ke Pantai Lamaru, kamu bisa berkendara selama 30 menit dengan kendaraan sendiri dari pusat Kota Balikpapan. Bisa juga dengan naik angkot jurusan Dam-Manggar selama 1 jam. Kalau kamu pengin naik motor, bisa ditempuh selama 20 menit aja.</p><br>
+			  <h2>Yuk, Ke Pantai Lamaru!</h2><br>
 			  <h4>Jalur Udara</h4><br>
-			  <p class="text-justify">Bagi  pengujung yang memilih transportasi udara untuk menuju ke Balikpapan, pilihlah tujuan Bandara Internasional Sultan Aji Muhammad Sulaiman Sepinggan. Penerbangan internasional dan nasional tersedia sepanjang waktu. Kemudian anda bisa menggunakan taksi yang tersedia dibandara menuju lokasi.</p><br>
+			  <p class="text-justify">Balikpapan melalui jalan udara di layani oleh Sultan Aji Muhammad Sulaiman Airport. BalikpapanSultan Aji Muhammad Sulaiman Airport terletak sekitar 5 km timur dari Balikpapan. Taksi ke kota dari Sultan Aji Muhammad Sulaiman Airport akan dikenakan IDR 70.000.</p><br>
 			  <h4>Jalur Darat</h4><br>
 			  <p class="text-justify">pengunjung dapat melewati tol Balsam yang merupakan sebuah jalan tol di Indonesia sepanjang 99,02 kilometer yang menghubungkan Kota Balikpapan dengan Kota Samarinda, Kalimantan Timur.</p><br>
 			  <h4>Jalur Laut</h4><br>

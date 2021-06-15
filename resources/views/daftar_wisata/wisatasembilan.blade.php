@@ -46,35 +46,35 @@
 	  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 		  <div class="carousel-item active">
-			<img class="d-block w-100 h-50" src="/img/benua patra.jpg" alt="danau cermin">
+			<img class="d-block w-100 h-50" src="/img/buaya.jpg" alt="danau cermin">
 		  </div>
 		  <div class="carousel-item">
-			<img class="d-block w-100 h-50" src="/img/Banua-Patra.jpg" alt="Second slide">
+			<img class="d-block w-100 h-50" src="/img/penangkaran-buaya.jpg" alt="Second slide">
 		  </div>
 		</div>
 	  </div>
 	  <br>
 	  <br>
-	  <h1 style="text-align: center">Banua Patra </h1>
+	  <h1 style="text-align: center">Penangkaran Buaya</h1>
 	  <br>
 	  <br>
 
 	  <div class="row justify-content-md-center">
 		  <div class="col-md-6">
 			  <p class="text-justify">
-				Pantai ini menyuguhkan keindahan kontras dari warna pasir dan lautannya. Tentunya hal ini membuat para wisatawan yang mengunjunginya sangat terkagum. Tampilan pasir yang putih cemerlang dan halus, membuat destinasi wisata ini sangat populer untuk semua kalangan pengunjung baik lokal maupun luar daerah. Tidak hanya itu saja, masih banyak lagi pesona yang ditawarkan dari pantai ini. Pantai Banua Patra dulunya sering disebut dengan istilah Batu – Batu. Pasalnya, wilayahnya memang dipenuhi dengan bebatuan alam yang tersusun sampai membentuk pulau dipinggir pantai. Kontras yang terlihat dari pasir dan bebatuan inilah yang membuat Banua Patra berbeda dengan pantai lainnya. Bahkan batu yang terbentuk secara alami ini bisa dijadikan spot menarik untuk diabadikan		
+				Penangkaran Buaya Teritip merupakan penangkaran yang memiliki jumlah buaya terbanyak di Kalimantan Timur. Buaya-buaya tersebut berada didalam kandang-kandang yang telah diklasifikasinkan ke dalam empat jenis yaitu kandang untuk anak buaya, kandang untuk buaya muda, kandang untuk buaya dewasa, dan kandang untuk menimbang berat badan buaya. Disini Anda bisa mendapatkan info tentang buaya, mulai dari habitat hingga proses perkembang biakan buaya. Jangan segan-segan bertanya kepada pemandu jika ada yang ingin Anda ketahui. Buaya memang di kenal sebagai hewan yang liar dan buas, tapi disini Anda tidak hanya bisa melihat gerak-gerik buaya secara dekat akan tetapi Anda juga bisa memberi makan buaya secara langsung. Pengelola sudah menyiapkan pakan berupa ayam seharga Rp 10.000,- yang bisa Anda beli untuk makanan buaya. Melihat buaya makan dengan lahap menjadi pemandangan menarik yang bisa Anda temui disini. Namun tetap waspada ya saat Anda berwisata disini, selalu patuhi peraturan yang ada karena jika tidak bisa-bisa Anda yang diserang oleh buaya.
 			  </p>
-			  <img src="/img/Banua-Patra.jpg">
-			  <p class="text-justify">Lokasi: Perapatan, Kec. Balikpapan Kota, Kota Balikpapan.</p><br>
+			  <img src="/img/penangkaran-buaya.jpg">
+			  <p class="text-justify">Lokasi: Jl. Mulawarman no. 66, RT. 29, Balikpapan 76115 Indonesia </p><br>
 			  <h2>Akomodasi</h2><br>
-			  <p class="text-justify">untuk pengunjung dari luar daerah tak perlu bingung akan menginap dimana karena di pantai ini terdapat Patra Melawai Beach yang dibanderol Rp. 220.000 permalamnya.</p><br>
+			  <p class="text-justify">Pengunjung bisa menyewa penginapan yang nyaman dan dengan harga yang terjangkau untuk memudahkan perjalanan penangkaran buaya seperti Athar 88 hotel yang berkisar Rp.165.715 permalam.</p><br>
 			  <h2>Transportasi</h2><br>
-			  <p class="text-justify">Pantai yang satu ini berlokasi sangat strategis, yaitu di area jantung Kota Balikpapan, tepatnya di Jalan Jenderal Sudirman. Untuk menuju ke lokasi wisata Pantai Banua Patra cukup mudah. Lokasinya yang berdekatan dengan lapangan Merdeka dan pelabuhan Semayang pastinya mudah dilihat. Tidak hanya itu saja, akses menuju lokasi juga mudah untuk dijangkau bagi wisatawan baik dengan kendaraan umum maupun transportasi umum.</p><br>
-			  <h2>Yuk, Ke Pantai Benua Patra!</h2><br>
+			  <p class="text-justify">Lokasi Penangkaran Buaya Teritip berjarak sekitar 27Km timur dari pusat kota. Perjalanan bisa ditempuh menggunakan mobil sewa, motor, taksi atau angkutan umum kota No. 7. Waktu tempuh sekitar 30 menit. Namun jika Anda dari Bandara Sepinggan waktu tempuhnya sekitar 20 menit</p><br>
+			  <h2>Yuk, Ke Penangkaran Buaya!</h2><br>
 			  <h4>Jalur Udara</h4><br>
 			  <p class="text-justify">Bagi  pengujung yang memilih transportasi udara untuk menuju ke Balikpapan, pilihlah tujuan Bandara Internasional Sultan Aji Muhammad Sulaiman Sepinggan. Penerbangan internasional dan nasional tersedia sepanjang waktu. Kemudian anda bisa menggunakan taksi yang tersedia dibandara menuju lokasi.</p><br>
 			  <h4>Jalur Darat</h4><br>
-			  <p class="text-justify">pengunjung dapat melewati tol Balsam yang merupakan sebuah jalan tol di Indonesia sepanjang 99,02 kilometer yang menghubungkan Kota Balikpapan dengan Kota Samarinda, Kalimantan Timur.</p><br>
+			  <p class="text-justify">pengunjung bisa pergi dengan menggunakan sepeda motor. Namun, jika tidak memiliki kendaraan pribadi, pengunjung bisa menumpang angkutan no.7 yang berangkat dari terminal bus Damai.</p><br>
 			  <h4>Jalur Laut</h4><br>
 			  <p class="text-justify">Pengunjung dapat mengakses Balikpapan dengan kapal feri menuju Pelabuhan semayang. T. Pelni, perusahaan pelayaran nasional, memiliki layanan ke/dari kota lain di Indonesia, seperti Nabire, Tarakan, Nunukan, Parepare, Surabaya, Jayapura, Makassar, Maumere, Kupang, Surabaya, dan Jakarta. </p>
 		  </div>

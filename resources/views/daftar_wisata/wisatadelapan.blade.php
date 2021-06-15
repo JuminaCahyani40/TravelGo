@@ -46,37 +46,37 @@
 	  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 		  <div class="carousel-item active">
-			<img class="d-block w-100 h-50" src="/img/benua patra.jpg" alt="danau cermin">
+			<img class="d-block w-100 h-50" src="/img/beruang madu.jpg" alt="danau cermin">
 		  </div>
 		  <div class="carousel-item">
-			<img class="d-block w-100 h-50" src="/img/Banua-Patra.jpg" alt="Second slide">
+			<img class="d-block w-100 h-50" src="/img/beruang-madu.jpg" alt="Second slide">
 		  </div>
 		</div>
 	  </div>
 	  <br>
 	  <br>
-	  <h1 style="text-align: center">Banua Patra </h1>
+	  <h1 style="text-align: center">Agrowisata Beruang Madu</h1>
 	  <br>
 	  <br>
 
 	  <div class="row justify-content-md-center">
 		  <div class="col-md-6">
 			  <p class="text-justify">
-				Pantai ini menyuguhkan keindahan kontras dari warna pasir dan lautannya. Tentunya hal ini membuat para wisatawan yang mengunjunginya sangat terkagum. Tampilan pasir yang putih cemerlang dan halus, membuat destinasi wisata ini sangat populer untuk semua kalangan pengunjung baik lokal maupun luar daerah. Tidak hanya itu saja, masih banyak lagi pesona yang ditawarkan dari pantai ini. Pantai Banua Patra dulunya sering disebut dengan istilah Batu – Batu. Pasalnya, wilayahnya memang dipenuhi dengan bebatuan alam yang tersusun sampai membentuk pulau dipinggir pantai. Kontras yang terlihat dari pasir dan bebatuan inilah yang membuat Banua Patra berbeda dengan pantai lainnya. Bahkan batu yang terbentuk secara alami ini bisa dijadikan spot menarik untuk diabadikan		
+				Tempat wisata beruang madu yang berada di Balikpapan merupakan salah satu penangkaran beruang madu yang menyajikan konsep wisata edukasi tentang lingkungan hidup. Agrowisata ini khususnya menampung beruang madu yang masih hidup bebas di habitat aslinya yaitu hutan khas Kalimantan. Saat anda mengajak anak berkunjung ke tempat ini maka anak akan berlajar banyak sekali perihal beruang madu dan lingkungan habitatnya. Berlokasi sekitar 23 kilometer di utara Kota Balikpapan, tempat ini juga disebut sebagai Kawasan Wisata Pendidikan Lingkungan Hidup Balikpapan atau KWPLH Balikpapan. Mulanya kawasan ini merupakan kawasan agrowisata sebelum akhirnya dialih fungsikan sebagai tempat untuk habitat beruang madu. Seperti diketahui beruang madu adalah lambang dari Kota Balikpapan yang terkenal karena kawasan ini merupakan habitat asli Beruang Madu.		
 			  </p>
-			  <img src="/img/Banua-Patra.jpg">
-			  <p class="text-justify">Lokasi: Perapatan, Kec. Balikpapan Kota, Kota Balikpapan.</p><br>
+			  <img src="/img/beruang-madu.jpg">
+			  <p class="text-justify">Lokasi: Jl. Soekarno-Hatta Km. 23, No. 185 RT. 42, Karang Joang, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76127</p><br>
 			  <h2>Akomodasi</h2><br>
-			  <p class="text-justify">untuk pengunjung dari luar daerah tak perlu bingung akan menginap dimana karena di pantai ini terdapat Patra Melawai Beach yang dibanderol Rp. 220.000 permalamnya.</p><br>
+			  <p class="text-justify">bagi pengunujung yang datang dari luar daerah dan ingin menginap dan merasakan sensai tingal di dekat hutan Kalimantan, di dekat area lokasi Agrowisata Beruang Madu Balikpapan ini juga terdapat penginapan yang di bandrol dengan harga sekitar Rp. 300.000, / malam.</p><br>
 			  <h2>Transportasi</h2><br>
-			  <p class="text-justify">Pantai yang satu ini berlokasi sangat strategis, yaitu di area jantung Kota Balikpapan, tepatnya di Jalan Jenderal Sudirman. Untuk menuju ke lokasi wisata Pantai Banua Patra cukup mudah. Lokasinya yang berdekatan dengan lapangan Merdeka dan pelabuhan Semayang pastinya mudah dilihat. Tidak hanya itu saja, akses menuju lokasi juga mudah untuk dijangkau bagi wisatawan baik dengan kendaraan umum maupun transportasi umum.</p><br>
-			  <h2>Yuk, Ke Pantai Benua Patra!</h2><br>
+			  <p class="text-justify">Tempat konservasi ini cukup jauh dari jalan raya sehingga menggunakan kendaraan sendiri atau sewaan lebih disarankan. Bagi yang menggunakan angkutan umum bisa menggunakan Angkot no.03 dari pusat kota ke Terminal Batu Ampar (Rp6.000,00), lalu menggunakan Angkot no.08 untuk turun ke tempat “Agrowisata”. Kawasan ini dibuka pukul 08.00 pagi hingga 17.00 WITA.</p><br>
+			  <h2>Yuk, Ke Beruang Madu!</h2><br>
 			  <h4>Jalur Udara</h4><br>
 			  <p class="text-justify">Bagi  pengujung yang memilih transportasi udara untuk menuju ke Balikpapan, pilihlah tujuan Bandara Internasional Sultan Aji Muhammad Sulaiman Sepinggan. Penerbangan internasional dan nasional tersedia sepanjang waktu. Kemudian anda bisa menggunakan taksi yang tersedia dibandara menuju lokasi.</p><br>
 			  <h4>Jalur Darat</h4><br>
-			  <p class="text-justify">pengunjung dapat melewati tol Balsam yang merupakan sebuah jalan tol di Indonesia sepanjang 99,02 kilometer yang menghubungkan Kota Balikpapan dengan Kota Samarinda, Kalimantan Timur.</p><br>
+			  <p class="text-justify">Bagi pengunjung yang ingin mengunjungi tempat Agorwisata Beruang Madu di Balikpapan ini bisa langsung datang kelokasi, tepatnya km 23. Dan tempat penangkaran ini mudah dijangkau dari pusat Kota Balikpapan dengan kendaraan yang berjarak tempuh sekitar 30 menit. Dan untuk rute perjalanan menuju lokasi dari pusat kota bisa llihat di peta.</p><br>
 			  <h4>Jalur Laut</h4><br>
-			  <p class="text-justify">Pengunjung dapat mengakses Balikpapan dengan kapal feri menuju Pelabuhan semayang. T. Pelni, perusahaan pelayaran nasional, memiliki layanan ke/dari kota lain di Indonesia, seperti Nabire, Tarakan, Nunukan, Parepare, Surabaya, Jayapura, Makassar, Maumere, Kupang, Surabaya, dan Jakarta. </p>
+			  <p class="text-justify">Pengunjung dapat mengakses Balikpapan dengan kapal feri menuju Pelabuhan semayang. T. Pelni, perusahaan pelayaran nasional, memiliki layanan ke/dari kota lain di Indonesia, seperti Nabire, Tarakan, Nunukan, Parepare, Surabaya, Jayapura, Makassar, Maumere, Kupang, Surabaya, dan Jakarta.  </p>
 		  </div>
 	  </div><hr>
 	  <div class="container contact-form">

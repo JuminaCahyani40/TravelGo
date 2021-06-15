@@ -46,37 +46,37 @@
 	  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 		  <div class="carousel-item active">
-			<img class="d-block w-100 h-50" src="/img/benua patra.jpg" alt="danau cermin">
+			<img class="d-block w-100 h-50" src="/img/sungai wain.jpg" alt="danau cermin">
 		  </div>
 		  <div class="carousel-item">
-			<img class="d-block w-100 h-50" src="/img/Banua-Patra.jpg" alt="Second slide">
+			<img class="d-block w-100 h-50" src="/img/sungai-wain.jpeg" alt="Second slide">
 		  </div>
 		</div>
 	  </div>
 	  <br>
 	  <br>
-	  <h1 style="text-align: center">Banua Patra </h1>
+	  <h1 style="text-align: center">Hutan Lindung Sungai Wain</h1>
 	  <br>
 	  <br>
 
 	  <div class="row justify-content-md-center">
 		  <div class="col-md-6">
 			  <p class="text-justify">
-				Pantai ini menyuguhkan keindahan kontras dari warna pasir dan lautannya. Tentunya hal ini membuat para wisatawan yang mengunjunginya sangat terkagum. Tampilan pasir yang putih cemerlang dan halus, membuat destinasi wisata ini sangat populer untuk semua kalangan pengunjung baik lokal maupun luar daerah. Tidak hanya itu saja, masih banyak lagi pesona yang ditawarkan dari pantai ini. Pantai Banua Patra dulunya sering disebut dengan istilah Batu – Batu. Pasalnya, wilayahnya memang dipenuhi dengan bebatuan alam yang tersusun sampai membentuk pulau dipinggir pantai. Kontras yang terlihat dari pasir dan bebatuan inilah yang membuat Banua Patra berbeda dengan pantai lainnya. Bahkan batu yang terbentuk secara alami ini bisa dijadikan spot menarik untuk diabadikan		
+				Hutan Lindung Sungai Wain merupakan salah satu wisata di Kota Balikpapan yang sangat mengedepankan pelestarian lingkungan dengan konsep ecotourism. Bukan hanya menawarkan wisata alam saja, tetapi di wisata hutan lindung ini juga menyediakan beragam fasilitas berisi informasi dan pengetahuan bagi wisatawan yang datang berkunjung untuk bekal pendidikan lingkungan hidup. Ketika berkunjung ke destinasi wisata ini, para pengunjung dapat menikmati trekking pendek dengan melintasi jalur sepanjang 400 meter di atas titian kayu atau jembatan panjang yang berada di dekat waduk air Sungai Wain. Terdapat pula jalur perjalanan untuk para wisatawan sepanjang 3 kilometer yang digunakan untuk melihat lihat beragam jenis tumbuhan langka, seperti kantung semar. 
 			  </p>
-			  <img src="/img/Banua-Patra.jpg">
-			  <p class="text-justify">Lokasi: Perapatan, Kec. Balikpapan Kota, Kota Balikpapan.</p><br>
+			  <img src="/img/sungai-wain.jpeg">
+			  <p class="text-justify">Lokasi: Karang Joang, Kec. Balikpapan Utara, Kota Balikpapan.</p><br>
 			  <h2>Akomodasi</h2><br>
-			  <p class="text-justify">untuk pengunjung dari luar daerah tak perlu bingung akan menginap dimana karena di pantai ini terdapat Patra Melawai Beach yang dibanderol Rp. 220.000 permalamnya.</p><br>
+			  <p class="text-justify">Pengunjung bisa menyewa penginapan yang nyaman dan dengan harga yang terjangkau untuk memudahkan perjalanan menuju hutan lindung sungai wain seperti RedDoorz near Terminal Batu Ampar yang berjarak sekitar 8 KM dari lokasi.</p><br>
 			  <h2>Transportasi</h2><br>
-			  <p class="text-justify">Pantai yang satu ini berlokasi sangat strategis, yaitu di area jantung Kota Balikpapan, tepatnya di Jalan Jenderal Sudirman. Untuk menuju ke lokasi wisata Pantai Banua Patra cukup mudah. Lokasinya yang berdekatan dengan lapangan Merdeka dan pelabuhan Semayang pastinya mudah dilihat. Tidak hanya itu saja, akses menuju lokasi juga mudah untuk dijangkau bagi wisatawan baik dengan kendaraan umum maupun transportasi umum.</p><br>
-			  <h2>Yuk, Ke Pantai Benua Patra!</h2><br>
+			  <p class="text-justify">jika ingin menggunakan transportasi umum, maka Anda bisa menaiki mikrolet nomor 3 dari arah pusat kota atau Pasar Klandasan. Kemudian turun di Terminal Batu Ampar, lalu naik mikrolet nomor 8 dengan perjalanan selama kurang lebih satu jam.</p><br>
+			  <h2>Yuk, Ke Hutan Lindung Sungai Wain!</h2><br>
 			  <h4>Jalur Udara</h4><br>
 			  <p class="text-justify">Bagi  pengujung yang memilih transportasi udara untuk menuju ke Balikpapan, pilihlah tujuan Bandara Internasional Sultan Aji Muhammad Sulaiman Sepinggan. Penerbangan internasional dan nasional tersedia sepanjang waktu. Kemudian anda bisa menggunakan taksi yang tersedia dibandara menuju lokasi.</p><br>
 			  <h4>Jalur Darat</h4><br>
 			  <p class="text-justify">pengunjung dapat melewati tol Balsam yang merupakan sebuah jalan tol di Indonesia sepanjang 99,02 kilometer yang menghubungkan Kota Balikpapan dengan Kota Samarinda, Kalimantan Timur.</p><br>
 			  <h4>Jalur Laut</h4><br>
-			  <p class="text-justify">Pengunjung dapat mengakses Balikpapan dengan kapal feri menuju Pelabuhan semayang. T. Pelni, perusahaan pelayaran nasional, memiliki layanan ke/dari kota lain di Indonesia, seperti Nabire, Tarakan, Nunukan, Parepare, Surabaya, Jayapura, Makassar, Maumere, Kupang, Surabaya, dan Jakarta. </p>
+			  <p class="text-justify">Pengunjung dapat mengakses Balikpapan dengan kapal feri menuju Pelabuhan semayang. T. Pelni, perusahaan pelayaran nasional, memiliki layanan ke/dari kota lain di Indonesia, seperti Nabire, Tarakan, Nunukan, Parepare, Surabaya, Jayapura, Makassar, Maumere, Kupang, Surabaya, dan Jakarta.</p>
 		  </div>
 	  </div><hr>
 	  <div class="container contact-form">
